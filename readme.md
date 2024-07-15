@@ -1,10 +1,11 @@
 ### EUX Parent POM
 
-Felles avhengigheter brukt av EUX komponenter i NAV.
+Felles avhengigheter brukt av asynkrone EUX komponenter.
 
 ## Brukte teknologier
-* Kotlin
-* Spring
+* Java 21
+* Spring Boot 3
+* Spring Cloud Stream
 * Maven
 
 #### Avhengigheter
